@@ -13,3 +13,7 @@ h2 {
 a {
     color: blanchedalmond
 }
+
+video {
+    transform: rotate(90deg)
+}
